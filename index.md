@@ -6,3 +6,5 @@
 
 
 I added a description to what each line is about.
+
+![Silly Cat Face](https://i.pinimg.com/736x/02/72/16/02721647f507c80673b1b8ac20a82de3.jpg)
