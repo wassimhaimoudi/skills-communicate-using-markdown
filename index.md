@@ -17,3 +17,7 @@ console.log("Hello World");
 ``` python
 print("Hello world")
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portolio
+- [ ] Introduce myself to the world
